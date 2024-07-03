@@ -1,4 +1,4 @@
-import copy
+import copy # 1
 import networkx as nx
 from geopy.distance import distance
 from database.DAO import DAO

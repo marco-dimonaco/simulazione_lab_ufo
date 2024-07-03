@@ -1,4 +1,4 @@
-import mysql.connector
+import mysql.connector # 1
 from mysql.connector import errorcode
 import pathlib
 

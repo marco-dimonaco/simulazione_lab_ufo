@@ -1,4 +1,4 @@
-from database.DB_connect import DBConnect
+from database.DB_connect import DBConnect # 1
 from model.states import State
 from model.connessione import Connessione
 

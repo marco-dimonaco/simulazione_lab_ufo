@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass # 1
 from model.states import State
 
 
